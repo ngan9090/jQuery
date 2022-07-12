@@ -1,0 +1,75 @@
+.formOne{
+    border: 1px black solid;
+    border-radius:55px;
+}
+
+.distance{
+    height: 7px;
+}
+
+.title{
+    height:100px;
+    padding-top:3%;
+    font-size: 25px;
+}
+
+.footer{
+    height: 30px;
+}
+
+.button{
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(15, 3, 69);
+    text-align: center;
+}
+
+.button:hover{
+    background-color: blue;
+    color: brown;
+}
+
+.button:active{
+    background-color:chocolate;
+    color: black;
+}
+
+table, td, th {
+    border: 1px solid;
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .index{
+    width:15px;
+  }
+
+  .disTable{
+    height:40px;
+  }
+
+  .msg-error{
+    color:red;
+    margin-bottom: 20px ;
+    display:none;
+  }
+
+  .day-error{
+    color:red;
+    margin-bottom: 20px ;
+    display:none;
+  }
+
+  .phone-error{
+    color:red;
+    margin-bottom: 20px ;
+    display:none;
+  }
+
+  #edit{
+    display: dis;
+  }
